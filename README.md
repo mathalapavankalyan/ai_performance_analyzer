@@ -1,6 +1,6 @@
-# 🧠 AI Performance Analyzer
+#  AI Performance Analyzer
 
-### 🚀 Overview  
+### Overview  
 **AI Performance Analyzer** is a full-stack performance monitoring and analytics platform built with **Python (FastAPI)** and **React**.  
 It continuously collects and analyzes application logs to provide **real-time, AI-driven insights** about your system’s behavior, performance, and reliability.
 
@@ -15,17 +15,17 @@ The project is divided into two main components:
 
 ---
 
-### ⚙️ Key Features
+### Key Features
 
-- 🔍 **Automated Log Analysis** — Continuously monitors and processes logs 24/7.  
-- ⚡ **AI-Powered Insights** — Detects high-latency endpoints, broken APIs, and most-used features.  
-- 💬 **Interactive Assistant** — Query the system via chatbot to get instant performance feedback.  
-- 📊 **Real-Time Reporting** — View up-to-date performance insights without manual log review.  
-- 🧩 **Modular & Scalable** — Designed for easy integration with existing applications.
+- **Automated Log Analysis** — Continuously monitors and processes logs 24/7.  
+- **AI-Powered Insights** — Detects high-latency endpoints, broken APIs, and most-used features.  
+- **Interactive Assistant** — Query the system via chatbot to get instant performance feedback.  
+- **Real-Time Reporting** — View up-to-date performance insights without manual log review.  
+-  **Modular & Scalable** — Designed for easy integration with existing applications.
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 | Layer | Technology |
 |-------|-------------|
@@ -41,7 +41,7 @@ The project is divided into two main components:
 ![dashboard_page_Overview](chatbot.png)
 ![blog page Overview](blogs.png)
 ![chatbot_page_Overview](dashboard.png)
-### 🧪 Getting Started
+###  Getting Started
 
 #### 1. Clone the repository
 ```bash
