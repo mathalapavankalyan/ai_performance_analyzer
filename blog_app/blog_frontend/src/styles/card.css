@@ -1,0 +1,84 @@
+.card-container {
+  width: 100px;
+  background: #fff;
+  border-radius: 16px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+  overflow: hidden;
+  transition: all 0.3s ease;
+  display: flex;
+  flex-direction: column;
+  cursor: pointer;
+  
+}
+
+.card-box{
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  font-size: small;
+  padding-left: 10px;
+}
+.card-container:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.card-image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;          
+  height: 200px;        
+  overflow: hidden;     
+}
+
+.card-image-container img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.card-content {
+  display: flex;
+  flex-direction: column;
+  width:30%;
+  justify-content: space-around;
+  height:10%;  
+}
+
+.card-title {
+  font-weight: 600;
+  color: #222;
+  margin-bottom: 8px;
+}
+
+.card-author {
+  font-size: 0.95rem;
+  color: #555;
+  margin-bottom: 5px;
+}
+
+.card-likes,
+.card-date {
+  font-size: 0.85rem;
+  color: #777;
+  margin: 2px 0;
+}
+
+.like-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 6px;
+  margin-right: 10px;
+}
+
+.heart-icon {
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.heart-icon:hover {
+  transform: scale(1.2);
+}

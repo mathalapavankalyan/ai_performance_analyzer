@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+beanie
+motor
+langchain
+langgraph
+openai
+langchain_openai
+
