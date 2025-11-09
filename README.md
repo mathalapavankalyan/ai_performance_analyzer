@@ -37,6 +37,7 @@ The project is divided into two main components:
 
 ---
 ### Preview of the application
+![preview of app](preview.mp4)
 ![dashboard_page_Overview](chatbot.png)
 ![blog page Overview](blogs.png)
 ![chatbot_page_Overview](dashboard.png)
