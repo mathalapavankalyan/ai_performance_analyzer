@@ -36,7 +36,8 @@ The project is divided into two main components:
 | **Integration** | REST APIs |
 
 ---
-
+### Preview of the application
+![Dashboard Overview](blogs.png)
 ### 🧪 Getting Started
 
 #### 1. Clone the repository
