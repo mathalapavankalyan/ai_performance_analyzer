@@ -37,7 +37,9 @@ The project is divided into two main components:
 
 ---
 ### Preview of the application
-![Dashboard Overview](blogs.png)
+![dashboard_page_Overview](chatbot.png)
+![blog page Overview](blogs.png)
+![chatbot_page_Overview](dashboard.png)
 ### 🧪 Getting Started
 
 #### 1. Clone the repository
